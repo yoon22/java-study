@@ -13,6 +13,7 @@ class People{
 	
 }
 public class Student extends People {
+	
 	int grade;
 	Student(int grade){
 		this.grade = grade;
@@ -25,6 +26,7 @@ public class Student extends People {
 	public static void main(String[] args) {
 		Student st= new Student(3);
 		st.printInfo();
+		
 		
 	}
 }
