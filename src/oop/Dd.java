@@ -18,6 +18,7 @@ public class Dd {
 		Dd d = new Dd();
 		d.test(1,"abc");
 		System.out.println(d.test(1,"abc"));
+		d.test();
 		
 		
 		
