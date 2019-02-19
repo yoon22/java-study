@@ -15,8 +15,12 @@ public class StudentArray {
 			students[i] = new Student();
 			students[i].grade = i+1;		
 			System.out.println("students["+i+"] =" +students[i].grade);
+			
+			
+			
 			}
 			
+		// 테스트테스트
 			
 			
 		
