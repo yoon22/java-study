@@ -20,8 +20,7 @@ public class StudentArray {
 			
 			}
 			
-		// 테스트테스트
-			
+	
 			
 		
 		}
